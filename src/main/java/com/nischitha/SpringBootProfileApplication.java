@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootProfileApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootProfileApplication.class, args);
+		AppliactionContaxt contact = SpringApplication.run(SpringBootProfileApplication.class, args);
 	}
 
 }
